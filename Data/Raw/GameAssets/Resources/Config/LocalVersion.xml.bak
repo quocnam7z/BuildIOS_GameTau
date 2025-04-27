@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<local_info>
+
+<VersionInfoURL>http://175.24.183.173:81//RemoteVersion.xml</VersionInfoURL>
+<UploadServerURL>http://collectlog-tzj.iwgame.cc</UploadServerURL>
+<!--原地址: 124.220.47.41，119.96.135.18:99-->
+<ServerKitURL>http://192.168.1.72:8082</ServerKitURL>
+<TexSyncURL>http://222.212.88.34:18082</TexSyncURL>
+<local_patch_res_version>1.1.0</local_patch_res_version>
+<local_app_version>1.8.110.0</local_app_version>
+<platform_fid>qx</platform_fid>
+<local_base_res_version>1</local_base_res_version>
+<fgi>1101</fgi>
+<developer>CH</developer>
+<hasCopy>yes</hasCopy>
+<enableDownload>false</enableDownload>
+</local_info>

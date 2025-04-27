@@ -1,0 +1,4 @@
+Assets/GameAssets/Resources/Scene/map023.unity3d
+Assets/GameAssets/Resources/Prefab/Monster/m_048.unity3d
+Assets/GameAssets/Resources/Prefab/Monster/m_606.unity3d
+Assets/GameAssets/Resources/Prefab/Monster/m_134.unity3d

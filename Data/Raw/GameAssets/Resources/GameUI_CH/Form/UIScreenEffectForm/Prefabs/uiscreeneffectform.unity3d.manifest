@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1211327115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d751dc670e8ef52993cffae378ab9f50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e091045b49480fb3e7a2e4ad63aa811a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIScreenEffectForm/Prefabs/UIScreenEffectForm.prefab
+Dependencies: []

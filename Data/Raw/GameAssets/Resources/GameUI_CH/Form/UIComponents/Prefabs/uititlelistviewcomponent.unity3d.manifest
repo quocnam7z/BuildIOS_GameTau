@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2289037177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34acbf85730f0509581b02c3f28dcc7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e0bd67644ced203872a04c215d1615
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIComponents/Prefabs/UITitleListViewComponent.prefab
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1165655510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d5f9085b908db0bca11be5b0d172e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 70e86566178eeff22153c6a195ca86e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIComponents/Prefabs/UIskillback.prefab
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3659872978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 636208a5dcbe96ed94b0ab52c5e9eec8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a49128092cdfd050e5f85960a8c54c25
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2747e3775af504da1a4d5a46c5a1ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UINotForceGuideForm/Prefabs/UINotForceGuideForm.prefab
+Dependencies: []

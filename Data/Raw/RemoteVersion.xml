@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ResourceVersion>
+
+  <!-- server list, use when login -->
+
+  <serverListURL>http://serverlist.funcell123.com/serverlist</serverListURL>
+
+  <!--app版本和升级地址-->
+
+  <CodeVersion_last>
+
+    <Version>1.0.0</Version>
+
+    <url>http://yzry.download.cdn-source.raink.com.cn/android/v1.2.1/apk_uc(2017-05-27-09-17-09).apk</url>
+
+    <size>92974036</size>
+
+  </CodeVersion_last>
+
+  <!--登陆服务器-->
+
+  <loginSever>
+
+    <login_Ip>160.191.2.83</login_Ip>
+
+    <login_Port>64807</login_Port>
+
+    <language>
+
+    </language>
+
+  </loginSever>
+
+  <!--网络协议版本号-->
+
+  <net_protocol_version>1</net_protocol_version>
+
+  <!--给其他平台(pp等)测试使用，可以指定测试服务器，可以指定需要的升级包-->
+
+  <test_tag>
+
+    <serverListURL>http://serverlist.funcell123.com/serverlist</serverListURL>
+
+    <big_app_version>1.0.0</big_app_version>
+
+    <!--大包的准入版本-->
+
+    <small_app_version>1.0.0</small_app_version>
+
+    <!--小包的准入版本-->
+
+    <login_Ip>160.191.2.83</login_Ip>
+
+    <!--测试服务器IP   fanxian.testgs.conn.553.com -->
+
+    <login_Port>64807</login_Port>
+
+    <!--测试服务器PORT-->
+
+    <get_client_ip_server_ip>160.191.2.83</get_client_ip_server_ip>
+
+    <!--取ip地址的服务器的IP   如果是no 则表示没有该服务器IP-->
+
+    <get_client_ip_server_port>-1</get_client_ip_server_port>
+
+    <!--取ip地址的服务器的PORT -1表示不连接取ip的服务器 -->
+
+    <app_current_version>1.0.0</app_current_version>
+
+    <!--最新的app版本-->
+
+    <app_update_url>http://yzry.download.cdn-source.raink.com.cn/android/v1.2.1/apk_uc(2017-05-27-09-17-09).apk</app_update_url>
+
+    <test_size>92974036</test_size>
+
+    <!--新包一键安装地址-->
+
+    <!--新的资源补丁包-->
+
+    <!--合法的测试客户端的ip-->
+
+    <legal_client_ip_list>
+
+      <!--<legal_client_ip>182.151.214.147</legal_client_ip>
+
+	<legal_client_ip>222.209.157.253</legal_client_ip>
+
+	<legal_client_ip>222.209.132.75</legal_client_ip>
+
+	<legal_client_ip>222.209.159.132</legal_client_ip>
+
+	<legal_client_ip>221.237.157.133</legal_client_ip>-->
+
+    </legal_client_ip_list>
+
+    <!---->
+
+    <legal_client_user_list>
+
+      <legal_client_user>//1.0.0:true</legal_client_user>
+
+    </legal_client_user_list>
+
+    <!--合法的测试客户端的机器 	<legal_client_machine>F4:1B:A1:D2:C0:78</legal_client_machine>
+
+		<legal_client_machine>20:7D:74:7E:AE:94</legal_client_machine>
+
+			<legal_client_machine>20:7D:74:90:F8:6A</legal_client_machine>
+
+			<legal_client_machine>F4:1B:A1:D2:C0:78</legal_client_machine>
+
+			<legal_client_machine>20:7D:74:90:F8:6A</legal_client_machine>-->
+
+    <legal_client_machine_list>
+
+      <legal_client_machine>{bc4a0c96-9a5d-4c43-9413-4487b23d6460}</legal_client_machine>
+
+      <legal_client_machine>{8f3e910b-8a1b-4467-8bc3-81e77b6192fc}</legal_client_machine>
+
+    </legal_client_machine_list>
+
+    <language>
+
+    </language>
+
+    <ForceUpdate>False</ForceUpdate>
+
+    <VersionBase>
+
+      <FromVersion>0</FromVersion>
+
+      <ToVersion>1</ToVersion>
+
+      <PatchFile>http://tzjmobcdn.iwgame.com/res/V1.0.0_1912211443_CH_1</PatchFile>
+
+      <PatchFileMD5>e8a82f221f726a91b43da726a1be7824</PatchFileMD5>
+
+      <FileSize>1119387881</FileSize>
+
+      <mapFile>http://tzjmobcdn.iwgame.com/res/V1.0.0_1912211443_CH_1.map</mapFile>
+
+      <mapFileMD5>fb4f3dc0519cd2bf2f588ba06ff73696</mapFileMD5>
+
+      <mapFileSize>305504</mapFileSize>
+
+    </VersionBase>
+
+    <VersionPatch>
+
+      <FromVersion>1.0.0</FromVersion>
+
+      <ToVersion>1.0.0.9</ToVersion>
+
+      <PatchFile>http://tzjmobcdn.iwgame.com/ares/v1.1.1/12241932_v1.1.1_1_1.map</PatchFile>
+
+      <PatchFileMD5>c92b75aa0f2d4bbf43a58e5639081da4</PatchFileMD5>
+
+      <FileSize>28248051</FileSize>
+
+    </VersionPatch>
+
+  </test_tag>
+
+  <!--公告-->
+
+  <game_notice_title>【凡仙公告】</game_notice_title>
+
+  <game_notice_message>
+
+  </game_notice_message>
+
+  <ForceUpdate>False</ForceUpdate>
+
+  <VersionBase>
+
+    <FromVersion>0</FromVersion>
+
+    <ToVersion>1</ToVersion>
+
+    <PatchFile>http://tzjmobcdn.iwgame.com/res/V1.0.0_1912211443_CH_1</PatchFile>
+
+    <PatchFileMD5>e8a82f221f726a91b43da726a1be7824</PatchFileMD5>
+
+    <FileSize>1119387881</FileSize>
+
+    <mapFile>http://tzjmobcdn.iwgame.com/res/V1.0.0_1912211443_CH_1.map</mapFile>
+
+    <mapFileMD5>fb4f3dc0519cd2bf2f588ba06ff73696</mapFileMD5>
+
+    <mapFileSize>305504</mapFileSize>
+
+  </VersionBase>
+
+  <VersionPatch>
+
+    <FromVersion>1.0.0</FromVersion>
+
+    <ToVersion>1.0.0.9</ToVersion>
+
+    <PatchFile>http://tzjmobcdn.iwgame.com/ares/v1.1.1/12241932_v1.1.1_1_1.map</PatchFile>
+
+    <PatchFileMD5>c92b75aa0f2d4bbf43a58e5639081da4</PatchFileMD5>
+
+    <FileSize>28248051</FileSize>
+
+  </VersionPatch>
+
+  <notice>
+
+    <message>1.资料片6.3更新公告</message>
+
+  </notice>
+
+</ResourceVersion>
+

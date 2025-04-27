@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 69450260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 447cf315b4c95eb5e4ea14df2152554b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8bfc022ef384f551fd15b1dfd631ea4c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 446d504799d99174383957fca80713c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIRankForm/Prefabs/PopoupList.prefab
+Dependencies: []

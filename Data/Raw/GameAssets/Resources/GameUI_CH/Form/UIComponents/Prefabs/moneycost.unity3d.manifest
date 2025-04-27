@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1516549486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8170508def1d97aa39dcb804bf8212de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c6ebb7173af37c03a262c8a6ce94525
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIComponents/Prefabs/MoneyCost.prefab
+Dependencies: []

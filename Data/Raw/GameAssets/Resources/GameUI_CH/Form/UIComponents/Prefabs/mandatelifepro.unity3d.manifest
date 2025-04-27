@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3281984336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24b76171035d80282ac9c597819fd1f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2d00ae8beadd99d4333821868b6bf8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIComponents/Prefabs/MandateLifePro.prefab
+Dependencies: []

@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<MaterialInfo Material="ef_qin2_83">
+<Textrues _MainTex="ef_qin2_83"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_01_add">
+<Textrues _MainTex="ef_ui_01"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_239">
+<Textrues _MainTex="ef_qin2_239"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_240">
+<Textrues _MainTex="ef_qin2_240"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_279">
+<Textrues _MainTex="ef_qin2_279"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_133">
+<Textrues _MainTex="ef_qin2_133"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_141_1">
+<Textrues _MainTex="ef_qin2_141_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_11">
+<Textrues _MainTex="ef_ui_11"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_49">
+<Textrues _MainTex="ef_qin2_49"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_94">
+<Textrues _MainTex="ef_qin2_94"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_21">
+<Textrues _MainTex="ef_qin2_21"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_285">
+<Textrues _MainTex="ef_qin2_285"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_282">
+<Textrues _MainTex="ef_qin2_282"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_283">
+<Textrues _MainTex="ef_qin2_283"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_22_1">
+<Textrues _MainTex="ef_qin2_22"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_69_add">
+<Textrues _MainTex="ef_qin2_69"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_151">
+<Textrues _MainTex="ef_qin2_151"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_84">
+<Textrues _MainTex="ef_qin2_84"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_02">
+<Textrues _MainTex="ef_qin2_02"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_94_add">
+<Textrues _MainTex="ef_qin2_94"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_40">
+<Textrues _MainTex="ef_qin2_40"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_189">
+<Textrues _MainTex="ef_qin2_189"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_91">
+<Textrues _MainTex="ef_qin2_91"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_03">
+<Textrues _MainTex="ef_qin2_03"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_38">
+<Textrues _MainTex="ef_qin2_38"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_201_1">
+<Textrues _MainTex="ef_qin2_201_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_100_02">
+<Textrues _MainTex="ef_qin2_100"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_15">
+<Textrues _MainTex="ef_qin2_15"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_201">
+<Textrues _MainTex="ef_qin2_201"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_165_ 1">
+<Textrues _MainTex="ef_qin2_165"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_28">
+<Textrues _MainTex="ef_ui_28"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_107">
+<Textrues _MainTex="ef_qin2_107"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_107_1">
+<Textrues _MainTex="ef_qin2_107_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_126">
+<Textrues _MainTex="ef_qin2_126"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_127">
+<Textrues _MainTex="ef_qin2_127"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_232">
+<Textrues _MainTex="ef_qin2_232"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_33_greed">
+<Textrues _MainTex="ef_qin2_33"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_220_1">
+<Textrues _MainTex="ef_qin2_220_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_174">
+<Textrues _MainTex="ef_qin2_174"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_166">
+<Textrues _MainTex="ef_qin2_166"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_114">
+<Textrues _MainTex="ef_qin2_114"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_100">
+<Textrues _MainTex="ef_qin2_100"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_312">
+<Textrues _MainTex="ef_qin2_312"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_14">
+<Textrues _MainTex="ef_qin2_14"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_39">
+<Textrues _MainTex="ef_qin2_39"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_85">
+<Textrues _MainTex="ef_qin2_85"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_13_red">
+<Textrues _MainTex="ef_qin2_13_red"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_230">
+<Textrues _MainTex="ef_qin2_230"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_33">
+<Textrues _MainTex="ef_qin2_33"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_33_red">
+<Textrues _MainTex="ef_qin2_33"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_103">
+<Textrues _MainTex="ef_qin2_103"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_131">
+<Textrues _MainTex="ef_qin2_131"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_317">
+<Textrues _MainTex="ef_qin2_317"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_66">
+<Textrues _MainTex="ef_qin2_66"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_55">
+<Textrues _MainTex="ef_qin2_55"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_231">
+<Textrues _MainTex="ef_qin2_231"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_01">
+<Textrues _MainTex="ef_qin2_01"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_88_add">
+<Textrues _MainTex="ef_qin2_88"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_115">
+<Textrues _MainTex="ef_qin2_115"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_122">
+<Textrues _MainTex="ef_qin2_122"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_70">
+<Textrues _MainTex="ef_qin2_70"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_246">
+<Textrues _MainTex="ef_qin2_246"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_247">
+<Textrues _MainTex="ef_qin2_247"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_121">
+<Textrues _MainTex="ef_qin2_121"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_other_06">
+<Textrues _MainTex="ef_other_06"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_other_05">
+<Textrues _MainTex="ef_other_05"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_other_102">
+<Textrues _MainTex="ef_other_102"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_other_101">
+<Textrues _MainTex="ef_other_101"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_87">
+<Textrues _MainTex="ef_qin2_87"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_50">
+<Textrues _MainTex="ef_qin2_50"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_112">
+<Textrues _MainTex="ef_qin2_112"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_186">
+<Textrues _MainTex="ef_qin2_186"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_24">
+<Textrues _MainTex="ef_qin2_24"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_301">
+<Textrues _MainTex="ef_qin2_301"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_117">
+<Textrues _MainTex="ef_qin2_117"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_259">
+<Textrues _MainTex="ef_qin2_259"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_255">
+<Textrues _MainTex="ef_qin2_255"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_256">
+<Textrues _MainTex="ef_qin2_256"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_257">
+<Textrues _MainTex="ef_qin2_257"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_258">
+<Textrues _MainTex="ef_qin2_258"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_262">
+<Textrues _MainTex="ef_qin2_262"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_261">
+<Textrues _MainTex="ef_qin2_261"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_79">
+<Textrues _MainTex="ef_qin2_79"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_20">
+<Textrues _MainTex="ef_qin2_20"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_317_1">
+<Textrues _MainTex="ef_qin2_317"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_197">
+<Textrues _MainTex="ef_qin2_197"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_131_ 1">
+<Textrues _MainTex="ef_qin2_131"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_315">
+<Textrues _MainTex="ef_qin2_315"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_175">
+<Textrues _MainTex="ef_qin2_175"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_08">
+<Textrues _MainTex="ef_qin2_08"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_161_ 1">
+<Textrues _MainTex="ef_qin2_161"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_209_ -1x1">
+<Textrues _MainTex="ef_qin2_209"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_111_ 1">
+<Textrues _MainTex="ef_qin2_111"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_119">
+<Textrues _MainTex="ef_qin2_119"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_160">
+<Textrues _MainTex="ef_qin2_160"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_53">
+<Textrues _MainTex="ef_qin2_53"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_78">
+<Textrues _MainTex="ef_qin2_78"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_158">
+<Textrues _MainTex="ef_qin2_158"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_308">
+<Textrues _MainTex="ef_qin2_308"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_111_2">
+<Textrues _MainTex="ef_qin2_111_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_95">
+<Textrues _MainTex="ef_qin2_95"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_49_2">
+<Textrues _MainTex="ef_qin2_49"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_35">
+<Textrues _MainTex="ef_qin2_35"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_17">
+<Textrues _MainTex="ef_qin2_17"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_123">
+<Textrues _MainTex="ef_qin2_123"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_112_1">
+<Textrues _MainTex="ef_qin2_112_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_116_1">
+<Textrues _MainTex="ef_qin2_116_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_208">
+<Textrues _MainTex="ef_qin2_208"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_110">
+<Textrues _MainTex="ef_qin2_110"/>
+</MaterialInfo>
+<MaterialInfo Material="Default-Particle">
+<Textrues _MainTex="Default-Particle"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_008">
+<Textrues _MainTex="eff_sk_006"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_006">
+<Textrues _MainTex="eff_sk_006"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_057">
+<Textrues _MainTex="eff_sk_057"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_040">
+<Textrues _MainTex="eff_sk_040"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_055">
+<Textrues _MainTex="eff_sk_055"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_054">
+<Textrues _MainTex="eff_sk_054"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_011">
+<Textrues _MainTex="eff_sk_011"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_059">
+<Textrues _MainTex="eff_sk_059"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_060">
+<Textrues _MainTex="eff_sk_060"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_061">
+<Textrues _MainTex="eff_sk_061"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_071">
+<Textrues _MainTex="eff_sk_071"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_069">
+<Textrues _MainTex="eff_sk_069"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_068">
+<Textrues _MainTex="eff_sk_068"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_070">
+<Textrues _MainTex="eff_sk_070"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_067">
+<Textrues _MainTex="eff_sk_067"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_066">
+<Textrues _MainTex="eff_sk_066"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_065">
+<Textrues _MainTex="eff_sk_065"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_064">
+<Textrues _MainTex="eff_sk_064"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_062">
+<Textrues _MainTex="eff_sk_062"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_045_1">
+<Textrues _MainTex="eff_sk_045"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_063">
+<Textrues _MainTex="eff_sk_063"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_012">
+<Textrues _MainTex="eff_sk_012"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_072">
+<Textrues _MainTex="eff_sk_072"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_119">
+<Textrues _MainTex="eff_sk_119"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_121">
+<Textrues _MainTex="eff_sk_121"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_122">
+<Textrues _MainTex="eff_sk_122"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_036_1">
+<Textrues _MainTex="eff_sk_012"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_006_1">
+<Textrues _MainTex="eff_sk_006"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_123">
+<Textrues _MainTex="eff_sk_123"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_084">
+<Textrues _MainTex="eff_sk_084"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_120">
+<Textrues _MainTex="eff_sk_120"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_148">
+<Textrues _MainTex="eff_sk_148"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_116">
+<Textrues _MainTex="eff_sk_116"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_117">
+<Textrues _MainTex="eff_sk_117"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_118">
+<Textrues _MainTex="eff_sk_118"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_124">
+<Textrues _MainTex="eff_sk_124"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_125">
+<Textrues _MainTex="eff_sk_125"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_129">
+<Textrues _MainTex="eff_sk_129"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_126">
+<Textrues _MainTex="eff_sk_126"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_127">
+<Textrues _MainTex="eff_sk_127"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_128">
+<Textrues _MainTex="eff_sk_128"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_130">
+<Textrues _MainTex="eff_sk_130"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_131">
+<Textrues _MainTex="eff_sk_131"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_132">
+<Textrues _MainTex="eff_sk_132"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_134">
+<Textrues _MainTex="eff_sk_134"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_202">
+<Textrues _MainTex="eff_sk_202"
+_MaskTex="eff_sk_015_2"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_202_1">
+<Textrues _MainTex="eff_sk_194"
+_MaskTex="eff_sk_015_2"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_202_2">
+<Textrues _MainTex="eff_sk_202"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_201">
+<Textrues _MainTex="eff_sk_201"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_201_1">
+<Textrues _MainTex="eff_sk_201"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_200">
+<Textrues _MainTex="eff_sk_122"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_194">
+<Textrues _MainTex="eff_sk_194"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_196">
+<Textrues _MainTex="eff_sk_196"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_195">
+<Textrues _MainTex="eff_sk_195"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_197">
+<Textrues _MainTex="eff_sk_197"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_188">
+<Textrues _MainTex="eff_sk_188"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_198">
+<Textrues _MainTex="eff_sk_198"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_199">
+<Textrues _MainTex="eff_sk_199"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_148_2">
+<Textrues _MainTex="eff_sk_148_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_189">
+<Textrues _MainTex="eff_sk_189"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_190">
+<Textrues _MainTex="eff_sk_190"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_191">
+<Textrues _MainTex="eff_sk_191"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_192">
+<Textrues _MainTex="eff_sk_192"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_113">
+<Textrues _MainTex="eff_sk_113"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_193">
+<Textrues _MainTex="eff_sk_193"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_54">
+<Textrues _MainTex="ef_qin2_54"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_232_ 1">
+<Textrues _MainTex="ef_qin2_232"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_007_1">
+<Textrues _MainTex="eff_sk_007"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_040_1">
+<Textrues _MainTex="eff_sk_043"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_041">
+<Textrues _MainTex="eff_sk_041"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_042">
+<Textrues _MainTex="eff_sk_042"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_042_1">
+<Textrues _MainTex="eff_sk_042"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_043">
+<Textrues _MainTex="eff_sk_043"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_035_1">
+<Textrues _MainTex="eff_sk_035_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_036">
+<Textrues _MainTex="eff_sk_012"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_044">
+<Textrues _MainTex="eff_sk_044"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_014">
+<Textrues _MainTex="eff_sk_014"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_046">
+<Textrues _MainTex="eff_sk_046"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_047">
+<Textrues _MainTex="eff_sk_047"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_049">
+<Textrues _MainTex="eff_sk_049"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_030">
+<Textrues _MainTex="eff_sk_030"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_045">
+<Textrues _MainTex="eff_sk_045"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_052">
+<Textrues _MainTex="eff_sk_052"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_050">
+<Textrues _MainTex="eff_sk_050"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_037">
+<Textrues _MainTex="eff_sk_037"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_053">
+<Textrues _MainTex="eff_sk_053"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_051">
+<Textrues _MainTex="eff_sk_051"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_029">
+<Textrues _MainTex="eff_sk_029"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_114">
+<Textrues _MainTex="eff_sk_114"
+_MaskTex="eff_sk_114"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_115">
+<Textrues _MainTex="eff_sk_115"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_112">
+<Textrues _MainTex="eff_sk_112"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_111">
+<Textrues _MainTex="eff_sk_111"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_109">
+<Textrues _MainTex="eff_sk_109"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_109_1">
+<Textrues _MainTex="eff_sk_109"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_110">
+<Textrues _MainTex="eff_sk_110"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_108">
+<Textrues _MainTex="eff_sk_108"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_107">
+<Textrues _MainTex="eff_sk_107"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_106">
+<Textrues _MainTex="eff_sk_106"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_105">
+<Textrues _MainTex="eff_sk_105"
+_AlphaTex="eff_sk_105"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_104">
+<Textrues _MainTex="eff_sk_104"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_103">
+<Textrues _MainTex="eff_sk_103"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_102">
+<Textrues _MainTex="eff_sk_102"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_101">
+<Textrues _MainTex="eff_sk_101"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_115_1">
+<Textrues _MainTex="eff_sk_115"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_176">
+<Textrues _MainTex="eff_sk_176"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_040_2">
+<Textrues _MainTex="eff_sk_040"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_150">
+<Textrues _MainTex="eff_sk_150"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_150_1">
+<Textrues _MainTex="eff_sk_150"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_177">
+<Textrues _MainTex="eff_sk_177"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_175">
+<Textrues _MainTex="eff_sk_175"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_178">
+<Textrues _MainTex="eff_sk_178"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_179">
+<Textrues _MainTex="eff_sk_179"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_180">
+<Textrues _MainTex="eff_sk_180"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_173">
+<Textrues _MainTex="eff_sk_173"
+_MaskTex="eff_sk_012"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_174">
+<Textrues _MainTex="eff_sk_174"
+_MaskTex="eff_sk_174_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_159">
+<Textrues _MainTex="eff_sk_159"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_165">
+<Textrues _MainTex="eff_sk_165"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_035">
+<Textrues _MainTex="eff_sk_035"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_156">
+<Textrues _MainTex="eff_sk_156"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_152">
+<Textrues _MainTex="eff_sk_152"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_172">
+<Textrues _MainTex="eff_sk_172"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_171">
+<Textrues _MainTex="eff_sk_171"
+_AlphaTex="eff_sk_171"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_170_1">
+<Textrues _MainTex="eff_sk_170"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_163">
+<Textrues _MainTex="eff_sk_163"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_024_1">
+<Textrues _MainTex="eff_sk_024_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_166">
+<Textrues _MainTex="eff_sk_166"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_031">
+<Textrues _MainTex="eff_sk_031"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_158">
+<Textrues _MainTex="eff_sk_158"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_034">
+<Textrues _MainTex="eff_sk_034"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_187">
+<Textrues _MainTex="eff_sk_187"
+_MaskTex="eff_sk_187_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_181">
+<Textrues _MainTex="eff_sk_181"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_182">
+<Textrues _MainTex="eff_sk_182"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_045_2">
+<Textrues _MainTex="eff_sk_045"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_184">
+<Textrues _MainTex="eff_sk_184"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_186">
+<Textrues _MainTex="eff_sk_186"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_045_3">
+<Textrues _MainTex="eff_sk_045"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_183">
+<Textrues _MainTex="eff_sk_183"
+_Mask="eff_sk_183_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_023">
+<Textrues _MainTex="eff_sk_023_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_025">
+<Textrues _MainTex="eff_sk_025"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_026">
+<Textrues _MainTex="eff_sk_026"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_027">
+<Textrues _MainTex="eff_sk_027"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_024">
+<Textrues _MainTex="eff_sk_024"
+_MaskTex="eff_sk_024_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_028">
+<Textrues _MainTex="eff_sk_028"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_032">
+<Textrues _MainTex="eff_sk_032"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_033">
+<Textrues _MainTex="eff_sk_033"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_038">
+<Textrues _MainTex="eff_sk_038"/>
+</MaterialInfo>
+<MaterialInfo Material="kongqibocs">
+<Textrues _NoiseTex="eff_sk_033"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_039">
+<Textrues _MainTex="eff_sk_039"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_097">
+<Textrues _MainTex="eff_sk_097"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_098">
+<Textrues _MainTex="eff_sk_098"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_099">
+<Textrues _MainTex="eff_sk_099"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_036_2">
+<Textrues _MainTex="eff_sk_012"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_094">
+<Textrues _MainTex="eff_sk_094"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_095">
+<Textrues _MainTex="eff_sk_095"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_095_1">
+<Textrues _MainTex="eff_sk_095"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_010">
+<Textrues _MainTex="eff_sk_010"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_096">
+<Textrues _MainTex="eff_sk_096"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_100">
+<Textrues _MainTex="eff_sk_100"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_161">
+<Textrues _MainTex="eff_sk_161"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_160">
+<Textrues _MainTex="eff_sk_160"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_169">
+<Textrues _MainTex="eff_sk_169"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_170">
+<Textrues _MainTex="eff_sk_170"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_168">
+<Textrues _MainTex="eff_sk_168"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_167">
+<Textrues _MainTex="eff_sk_167"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_157_1">
+<Textrues _MainTex="eff_sk_157"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_214">
+<Textrues _MainTex="eff_sk_214"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_153">
+<Textrues _MainTex="eff_sk_153"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_154">
+<Textrues _MainTex="eff_sk_154"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_155">
+<Textrues _MainTex="eff_sk_155"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_213">
+<Textrues _MainTex="eff_sk_213"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_216">
+<Textrues _MainTex="eff_sk_114"
+_MaskTex="eff_sk_216"/>
+</MaterialInfo>
+<MaterialInfo Material="airwavelishi1">
+<Textrues _NoiseTex="eff_sk_114"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_215">
+<Textrues _MainTex="eff_sk_215"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_219_1">
+<Textrues _MainTex="eff_sk_219"
+_MaskTex="eff_sk_135_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_219">
+<Textrues _MainTex="eff_sk_219"
+_MaskTex="eff_sk_135_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_221">
+<Textrues _MainTex="eff_sk_221"
+_MaskTex="eff_sk_221_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_220">
+<Textrues _MainTex="eff_sk_220"/>
+</MaterialInfo>
+<MaterialInfo Material="airwavelishi2">
+<Textrues _NoiseTex="eff_sk_094"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_218">
+<Textrues _MainTex="eff_sk_218"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_217">
+<Textrues _MainTex="eff_sk_217"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_029_1">
+<Textrues _MainTex="eff_sk_029"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_225">
+<Textrues _MainTex="eff_sk_099"
+_MaskTex="eff_sk_043"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_222">
+<Textrues _MainTex="eff_sk_222"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_043_1">
+<Textrues _MainTex="eff_sk_043"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_203">
+<Textrues _MainTex="eff_sk_203"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_224">
+<Textrues _MainTex="eff_sk_224"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_223">
+<Textrues _MainTex="eff_sk_223_1"
+_DetailTex="eff_sk_223"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_001">
+<Textrues _MainTex="eff_sk_001"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_002">
+<Textrues _MainTex="eff_sk_002"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_003">
+<Textrues _MainTex="eff_sk_003"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_004">
+<Textrues _MainTex="eff_sk_002"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_005">
+<Textrues _MainTex="eff_sk_005"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_007">
+<Textrues _MainTex="eff_sk_007"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_009">
+<Textrues _MainTex="eff_sk_009"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_013">
+<Textrues _MainTex="eff_sk_013"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_019">
+<Textrues _MainTex="eff_sk_019"
+_MaskTex="eff_sk_019_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_016">
+<Textrues _MainTex="eff_sk_016"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_017">
+<Textrues _MainTex="eff_sk_017"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_018">
+<Textrues _MainTex="eff_sk_018"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_015">
+<Textrues _MainTex="eff_sk_015"
+_MaskTex="eff_sk_015_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_022">
+<Textrues _MainTex="eff_sk_014"
+_MaskTex="eff_sk_015_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_020">
+<Textrues _MainTex="eff_sk_020"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_021">
+<Textrues _MainTex="eff_sk_014"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_086">
+<Textrues _MainTex="eff_sk_086"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_087">
+<Textrues _MainTex="eff_sk_087"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_088">
+<Textrues _MainTex="eff_sk_088"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_015_1">
+<Textrues _MainTex="eff_sk_015"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_093">
+<Textrues _MainTex="eff_sk_065"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_001_1">
+<Textrues _MainTex="eff_sk_001"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_092">
+<Textrues _MainTex="eff_sk_092"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_090">
+<Textrues _MainTex="eff_sk_090"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_091">
+<Textrues _MainTex="player_301"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_085">
+<Textrues _MainTex="eff_sk_085"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_089">
+<Textrues _MainTex="eff_sk_089"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_149">
+<Textrues _MainTex="eff_sk_149"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_015_2">
+<Textrues _MainTex="eff_sk_015"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_151">
+<Textrues _MainTex="eff_sk_151"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_080_1">
+<Textrues _MainTex="eff_sk_080"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_080">
+<Textrues _MainTex="eff_sk_080"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_152_1">
+<Textrues _MainTex="eff_sk_152"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_147">
+<Textrues _MainTex="eff_sk_147"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_133">
+<Textrues _MainTex="eff_sk_133"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_157">
+<Textrues _MainTex="eff_sk_157"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_039_1">
+<Textrues _MainTex="eff_sk_039"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_206">
+<Textrues _MainTex="eff_sk_206"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_204">
+<Textrues _MainTex="eff_sk_204"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_208_1">
+<Textrues _MainTex="eff_sk_208"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_209">
+<Textrues _MainTex="eff_sk_209"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_211">
+<Textrues _MainTex="eff_sk_211"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_212">
+<Textrues _MainTex="eff_sk_212"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_210">
+<Textrues _MainTex="eff_sk_210"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_208">
+<Textrues _MainTex="eff_sk_208"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_207">
+<Textrues _MainTex="eff_sk_207"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_076">
+<Textrues _MainTex="eff_sk_075"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_073">
+<Textrues _MainTex="eff_sk_073"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_077">
+<Textrues _MainTex="eff_sk_077"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_074">
+<Textrues _MainTex="eff_sk_074"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_075">
+<Textrues _MainTex="eff_sk_075"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_078">
+<Textrues _MainTex="eff_sk_078"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_079">
+<Textrues _MainTex="eff_sk_079"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_081">
+<Textrues _MainTex="eff_sk_081"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_082">
+<Textrues _MainTex="eff_sk_082"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_083">
+<Textrues _MainTex="eff_sk_083"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_138">
+<Textrues _MainTex="eff_sk_138"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_137">
+<Textrues _MainTex="eff_sk_128"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_141">
+<Textrues _MainTex="eff_sk_077"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_142">
+<Textrues _MainTex="eff_sk_089"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_143">
+<Textrues _MainTex="eff_sk_143"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_139">
+<Textrues _MainTex="eff_sk_139"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_140">
+<Textrues _MainTex="eff_sk_140"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_135">
+<Textrues _MainTex="eff_sk_135"
+_MaskTex="eff_sk_135_1"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_136">
+<Textrues _MainTex="eff_sk_136"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_145">
+<Textrues _MainTex="eff_sk_145"/>
+</MaterialInfo>
+<MaterialInfo Material="eff_sk_144">
+<Textrues _MainTex="eff_sk_144"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_12">
+<Textrues _MainTex="ef_qin2_12"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_155">
+<Textrues _MainTex="ef_qin2_155"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_62">
+<Textrues _MainTex="ef_qin2_62"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_63">
+<Textrues _MainTex="ef_qin2_63"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_304">
+<Textrues _MainTex="ef_qin2_304"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_01">
+<Textrues _MainTex="ef_ui_01"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_170">
+<Textrues _MainTex="ef_qin2_170"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_178">
+<Textrues _MainTex="ef_qin2_178"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_180">
+<Textrues _MainTex="ef_qin2_180"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_09">
+<Textrues _MainTex="ef_ui_09"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_64">
+<Textrues _MainTex="ef_qin2_64"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_75">
+<Textrues _MainTex="ef_qin2_75"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_20">
+<Textrues _MainTex="ef_ui_20"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_176">
+<Textrues _MainTex="ef_qin2_176"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_142">
+<Textrues _MainTex="ef_qin2_142"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_124">
+<Textrues _MainTex="ef_qin2_124"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_161_add">
+<Textrues _MainTex="ef_qin2_161"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_37">
+<Textrues _MainTex="ef_qin2_37"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_89">
+<Textrues _MainTex="ef_qin2_89"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_13">
+<Textrues _MainTex="ef_ui_13"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_35">
+<Textrues _MainTex="ef_ui_35"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_68_add">
+<Textrues _MainTex="ef_qin2_68"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_34">
+<Textrues _MainTex="ef_ui_34"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_238">
+<Textrues _MainTex="ef_qin2_238"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_34_ 1">
+<Textrues _MainTex="ef_ui_34"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_207">
+<Textrues _MainTex="ef_qin2_207"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_12">
+<Textrues _MainTex="ef_ui_12"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_272">
+<Textrues _MainTex="ef_qin2_272"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_44">
+<Textrues _MainTex="ef_qin2_44"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_ui_14">
+<Textrues _MainTex="ef_ui_14"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_284">
+<Textrues _MainTex="ef_qin2_284"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_141">
+<Textrues _MainTex="ef_qin2_141"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_48_1">
+<Textrues _MainTex="ef_qin2_48_1"/>
+</MaterialInfo>
+<MaterialInfo Material="ef_qin2_176_1">
+<Textrues _MainTex="ef_qin2_176_1"/>
+</MaterialInfo>
+</Root>
+

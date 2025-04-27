@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SFX FolderName="Assets/GameAssets/Resources/Sound">
+<SFXNode SFXName="snd_ui_buy"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_buy.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_changeclass"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_changeclass.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_close"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_close.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_dimix"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_dimix.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_diput"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_diput.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_error"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_error.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_hit"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_hit.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_itemselect"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_itemselect.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_map_close"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_map_close.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_map_open"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_map_open.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_message"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_message.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_mission_finish"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_mission_finish.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_money"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_money.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_newmountget"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_newmountget.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_newmountstar"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_newmountstar.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_no"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_no.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_normal_click1"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_normal_click1.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_normal_click2"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_normal_click2.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_normal_click3"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_normal_click3.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_normal_click4"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_normal_click4.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_open"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_open.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_openbag"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_openbag.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_phase_finish"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_phase_finish.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_qianghua"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_qianghua.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_sold"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_sold.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_ui_yes"
+SoundType="Normal">
+<SFXSample FileName="UI/snd_ui_yes.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_nt1"
+SoundType="Speech">
+<SFXSample FileName="Speech/snd_nt1.wav"/>
+</SFXNode>
+<SFXNode SFXName="skil22"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skil22.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill10"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill10.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill11"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill11.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill12"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill12.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill13"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill13.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill14"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill14.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill15"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill15.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill16"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill16.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill17"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill17.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill18"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill18.WAV"/>
+</SFXNode>
+<SFXNode SFXName="skill19"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill19.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill2"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill2.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill20"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill20.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill21"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill21.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill23"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill23.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill24"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill24.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill25"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill25.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill26"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill26.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill3"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill3.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill4"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill4.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill5"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill5.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill6"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill6.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill7"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill7.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill8"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill8.wav"/>
+</SFXNode>
+<SFXNode SFXName="skill9"
+SoundType="Normal"
+MaxDist="20"
+MinDist="10">
+<SFXSample FileName="Sfx/skill9.wav"/>
+</SFXNode>
+<SFXNode SFXName="snd_map1"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map1.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_bhfb"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_bhfb.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_hjc"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_hjc.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jctl"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jctl.wav"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jjc"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jjc.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jldy"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jldy.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb1"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb1.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb2"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb2.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb3"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb3.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb4"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb4.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb5"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb5.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb6"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb6.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb7"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb7.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jqfb8"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jqfb8.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_jxz"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_jxz.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_mcbz"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_mcbz.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_sgy"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_sgy.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_shg"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_shg.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_shy"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_shy.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_tztfl"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_tztfl.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_tzyh"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_tzyh.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_wfdj"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_wfdj.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_whl"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_whl.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_xcpj"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_xcpj.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_yxjw"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_yxjw.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_yz"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_yz.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_zjc"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_zjc.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_map_zy"
+SoundType="Music">
+<SFXSample FileName="Music/snd_map_zy.mp3"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_ab_fire"
+SoundType="Ambient">
+<SFXSample FileName="Ambient/snd_ab_fire.wav"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_ab_fire2"
+SoundType="Ambient">
+<SFXSample FileName="Ambient/snd_ab_fire2.wav"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_ab_sea"
+SoundType="Ambient">
+<SFXSample FileName="Ambient/snd_ab_sea.wav"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="snd_ab_sonw"
+SoundType="Ambient">
+<SFXSample FileName="Ambient/snd_ab_sonw.wav"
+PlayType="Loop"/>
+</SFXNode>
+<SFXNode SFXName="empty_sound"
+SoundType="Normal">
+<SFXSample FileName="Default/Sound/empty_sound.wav"/>
+</SFXNode>
+</SFX>
+

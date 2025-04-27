@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 412678214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 600d48d2c1b6cf3a55a5fc9674f8e5e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d605281e23c263183bf5fd6b13d1c41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d698d970d4e17c846998f0b47a6de48f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7564e77a6bfa5e446bf1308fec5d7d63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Resources/GameUI_CH/Form/UIWardrobeForm/Prefabs/UIShandowPlane.prefab
+Dependencies: []
